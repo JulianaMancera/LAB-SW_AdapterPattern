@@ -1,0 +1,1 @@
+# LAB-SW_AdapterPattern
